@@ -22,5 +22,6 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
         </plugins>
+        <finalName>order-service</finalName>
     </build> 
 </project>
