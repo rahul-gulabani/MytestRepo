@@ -15,7 +15,7 @@ public class SpringBootHelloWorldExampleApplication {
 	@RequestMapping("/")  
 	public String hello()   
 	{  
-	return "Hello Epam I am Just trying to be technical thankd for your support";  
+	return "Welcome to devops";  
 	}  
 
 }
